@@ -1,0 +1,16 @@
+#jumbo {
+    object-position: center;
+    background-color: rgb(114, 141, 230);
+    text-emphasis: bold;
+}
+
+#output {
+    background-color: rgb(175, 129, 219);
+    object-position: center;
+
+
+}
+
+.container {
+    position: center;
+}
